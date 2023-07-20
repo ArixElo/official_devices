@@ -162,6 +162,22 @@
       ]
    },
    {
+      "full_name": "ArixElo",
+      "country": "PL",
+      "github_username": "ArixElo",
+      "telegram_username": "ArixElo",
+      "xda_url": "https://forum.xda-developers.com/m/patroxgamer.7618683/",
+      "core_team": false,
+      "devices": [
+         {
+            "bases": [
+               "thirteen"
+            ],
+            "codename": "davinci"
+         }
+      ]
+   },
+   {
       "full_name": "Astile Kuriakose",
       "country": "IN",
       "github_username": "atlanprime",

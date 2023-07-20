@@ -171,13 +171,13 @@
          "camera": "48Mpx + 8Mpx + 13Mpx + 20Mpx",
          "cpu": "Snapdragon 730",
          "display": "AMOLED 6.39\" 1080p",
-         "ram": "6/8GB"
+         "ram": "6GB LPDDR4X"
       },
       "supported_bases": [
          {
-            "name": "eleven",
+            "name": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-davinci-pixysos-aosp.4607565/",
             "supported_edition": [
-               "vanilla",
                "gapps"
             ]
          }
